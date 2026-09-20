@@ -11,7 +11,7 @@
    -------------------------------------------------------------------------- */
 const GOOGLE_SHEET_ENDPOINT = ""; // e.g. "https://script.google.com/macros/s/AKfy.../exec"
 const FALLBACK_EMAIL = "";        // optional: your shop email, used if the endpoint ever fails
-const SHOP_PHONE = "(360) 469-8367";
+const SHOP_PHONE = "(425) 308-2231";
 
 (function () {
   "use strict";
